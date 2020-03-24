@@ -1,0 +1,47 @@
+.sun {
+    position: relative;
+    left: 1490px;
+    
+}
+
+.father {
+    position: relative;
+    top: 50px;
+    right: 40px;
+}
+
+.ganso {
+    position: relative;
+    left: 276px;
+    bottom: 330px;
+}
+
+.jams {
+    position: relative;
+    left: 800px;
+    bottom: 480px;
+}
+
+.high {
+    position: relative;
+    bottom: 1030px;
+    left: 900px;
+}
+
+.lil {
+    position: relative;
+    bottom: 1550px;
+    left: 550px;
+}
+ 
+.mother {
+    position: relative;
+    bottom: 1300px;
+    left: 1370px;
+}
+
+.sad {
+    position: relative;
+    bottom: 1870px;
+    left: 1255px;
+}
